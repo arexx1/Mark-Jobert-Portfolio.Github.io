@@ -1,0 +1,138 @@
+.cover {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.intro-title {
+  font-size: 36px;
+  color: #007bff;
+}
+
+.fw-normal {
+  font-weight: normal;
+}
+
+.social-nav {
+  margin-top: 20px;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-item a {
+  color: #007bff;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  color: #ff6c00;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 20px;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #ff6c00;
+}
+
+.wave-bg {
+  background-image: url('wave-background.png');
+  background-size: cover;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  z-index: -1;
+}
+.cover {
+  background-color: #f9f9f9; /* Background color */
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.cover img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.intro-title {
+  font-size: 36px;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.fw-normal {
+  font-weight: normal;
+}
+
+.social-nav {
+  margin-top: 20px;
+}
+
+.social-nav a {
+  font-size: 24px;
+  margin-right: 20px;
+  color: #007bff;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.social-nav a:hover {
+  color: #ff6c00;
+}
+.custom-shape-divider-bottom-1698998687 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1698998687 svg {
+  position: relative;
+  display: block;
+  width: calc(159% + 1.3px);
+  height: 292px;
+}
+
+.custom-shape-divider-bottom-1698998687 .shape-fill {
+  fill: #353661;
+}
+.button-container {
+  text-align: center;
+}
+
+.custom-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #ff6c00;
+}
+body {
+  background-image: url('mj7.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
